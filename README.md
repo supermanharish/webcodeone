@@ -1,1 +1,1 @@
-openbreweryapiharish.netlify.app
+https://openbreweryapiharish.netlify.app/
